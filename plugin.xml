@@ -109,6 +109,7 @@
       <pods use-frameworks="true">
         <pod name="GoogleSignIn" spec="~> 5.0.2"/>
         <pod name="GoogleUtilities"/>
+	<pod name="AppAuth" spec="~> 1.6.1"/>
       </pods>
     </podspec>
 
